@@ -1,0 +1,5 @@
+---
+title: "Legal.IA"
+---
+
+Este es el sitio web de ALI, el primer Asistente Legal Inteligente de la Argentina.
